@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Black Moon - Speech to Text</string>
+    <string name="limpar">Limpar</string>
+    <string name="o_teu_texto_vai_aparecer_aqui">O teu texto vai aparecer aqui.</string>
+</resources>
